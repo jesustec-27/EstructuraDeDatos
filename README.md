@@ -1,6 +1,6 @@
 # EstructuraDeDatos
 
-## Uso de la librería LinkedList en Java
+## *Uso de la librería LinkedList en Java*
 ## Integrantes del equipo: 
 - :star: Martínez Montemayor Karen Patricia
 - :star: Parra Kauil Lexus Harit
@@ -12,7 +12,7 @@
 * [Excepción 2](LINK)
 * [Excepción 3](LINK)
 
-# Caso aplicativo
+## Caso aplicativo
 * [Código con el error "IndexOutOfBoundsException"](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/CasoAplicativoError.java)
 * [Código corregido](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/CasoAplicativo.java)
 
