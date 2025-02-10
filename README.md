@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/51/c1/8c/51c18c2b4a4937595291ce8988fcfad9.gif"/>
+
 # EstructuraDeDatos
 
 ## *Uso de la librería LinkedList en Java*
