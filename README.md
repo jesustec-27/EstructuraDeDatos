@@ -15,7 +15,7 @@
 * [Excepción 3](LINK)
 
 ## Caso aplicativo
-* [Código con el error "IndexOutOfBoundsException"](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/CasoAplicativoError.java)
-* [Código corregido](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/CasoAplicativo.java)
+* [Código con el error "IndexOutOfBoundsException"](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/HistorialNavegacion.java)
+* [Código corregido](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/HistorialNavegacionC.java)
 
   
