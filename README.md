@@ -13,7 +13,8 @@
 * [Error 1](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/Error1Erroneo.java)
 * [Corrección error 1](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/Error1Arreglado.java)
 * [Error 2](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/ErrorDos.java)
-* [Error 3](LINK)
+* [Error 3](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/Error3Erroneo.java)
+* [Corrección error 3](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/Error3Arreglado.java)
 
 ## Caso aplicativo
 * [Código con el error "IndexOutOfBoundsException"](https://github.com/jesustec-27/EstructuraDeDatos/blob/main/HistorialNavegacion.java)
