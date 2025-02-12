@@ -7,7 +7,7 @@ Aunque el código parece  funcionar indica que hay un problema potencial
 que podría llevar a fallos en el futuro. */
 
 
-/* import java.util.LinkedList;
+import java.util.LinkedList;
 
 class LL{
 public static void main(String[] args){
@@ -57,7 +57,7 @@ public static void main(String[] args){
     //printing the linked list
     System.out.println(LLobj);
     }
-} */
+} 
 
 /*La advertencia que ocurre es porque se utiliza un tipo sin especificar, un tipo 
 genérico para LinkedList. Para resolver esto, se debe declarar la lista 
